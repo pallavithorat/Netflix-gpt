@@ -5,6 +5,21 @@
 -  Routing of App
 -  Login Form
 -  Sign up Form
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp User Account
+- Implement Sign In user Api
+- Created Redux Store with userSlice
+- Implemented Sign out 
+- Update Profile
+
+# Steps For Firebase Deployment:
+- Install firebase CLI - 'npm i -g firebase-tools'
+- Firebase login - 'firebase login'
+- Initilize Firebase - 'firebase init' , then select hosting
+- Deploy - 'firebase deploy'
 
 
 # Features
