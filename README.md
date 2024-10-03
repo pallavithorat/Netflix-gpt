@@ -1,4 +1,4 @@
-#Netflix GPT
+# Netflix GPT
 - Create React App
 - Configured TailwindCSS
 -  Header
@@ -7,7 +7,7 @@
 -  Sign up Form
 
 
-#Features
+# Features
 
 - Login/Sign Up
     - Sign In /Sign up Form
@@ -24,5 +24,5 @@
     - Search Bar
     - Movie Suggestions
 
-#Project Setup
+# Project Setup
 Before starting the project please add .env file and add TMDB and OPENAI KEY into it.
