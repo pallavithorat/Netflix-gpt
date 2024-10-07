@@ -42,7 +42,7 @@
 - usePopularMovies Custom hook
 - GPT Search Page
 - GPT Search Bar
-- (BONUS) Multi-language Feature in our App)
+- Multi-language Feature in App
 
 # Steps For Firebase Deployment:
 - Install firebase CLI - 'npm i -g firebase-tools'
