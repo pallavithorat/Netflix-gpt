@@ -7,7 +7,7 @@ const useNowPlayingMovies = () => {
   // Fetch Data from TMDB API and update store
   const dispatch = useDispatch();
 
-  const nowPlayingMovies = useSelector(
+  const nowPlayingMovies = useSelector( //memoization, saves unnecessary API calls
     (store) => store.movies.nowPlayingMovies
   );
 
@@ -21,7 +21,7 @@ const useNowPlayingMovies = () => {
   };
 
   useEffect(() => {
-    !nowPlayingMovies && getNowPlayingMovies();
+    !nowPlayingMovies && getNowPlayingMovies(); //memoization, saves unnecessary API calls
   }, []);
 };
 
