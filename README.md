@@ -79,3 +79,11 @@
 
 # Project Setup
 Before starting the project please add .env file and add TMDB and OPENAI KEY into it.
+
+# Project Demo
+
+https://github.com/user-attachments/assets/cd69406c-8f9a-4915-b19b-e003d947469e
+
+
+
+ 
