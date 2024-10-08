@@ -1,3 +1,7 @@
+# Project Demo
+
+https://github.com/user-attachments/assets/3cd6e3f0-04de-4c01-a503-7ed3eb955c20
+
 # Netflix GPT
 - Create React App
 - Configured TailwindCSS
@@ -80,9 +84,7 @@
 # Project Setup
 Before starting the project please add .env file and add TMDB and OPENAI KEY into it.
 
-# Project Demo
 
-https://github.com/user-attachments/assets/3cd6e3f0-04de-4c01-a503-7ed3eb955c20
 
 
 
