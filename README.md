@@ -82,7 +82,9 @@ Before starting the project please add .env file and add TMDB and OPENAI KEY int
 
 # Project Demo
 
-https://github.com/user-attachments/assets/cd69406c-8f9a-4915-b19b-e003d947469e
+https://github.com/user-attachments/assets/3cd6e3f0-04de-4c01-a503-7ed3eb955c20
+
+
 
 
 
